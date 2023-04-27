@@ -35,13 +35,15 @@ esc
 11. Отправить изменения на внешний репозиторий.
 ```
 git commit -am "added new info in new.json"
-```git push`
+git push
+```
 12. Создать файл preferences.json
 ```
 touch preferences.json
 ```
 13. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON.
-``` vim preferences.json
+```
+vim preferences.json
 ```
 14. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
 ```
