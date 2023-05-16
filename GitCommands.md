@@ -73,6 +73,15 @@ git pull
 ```
 git status
 ```
+22. Логи
+```
+git log
+```
+23. Отличия в удаленном репозитории
+```
+git fetch
+```
+
 
 GitHub. HW_2
 
