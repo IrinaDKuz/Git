@@ -5,7 +5,7 @@
 1. Создать внешний репозиторий c названием JSON.
 2. Клонировать репозиторий JSON на локальный компьютер.
 ```
-git clone https (или ssh git@github.com:IrinaDKuz/TXT.git)
+git clone https (или ssh git@github.com:IrinaDKuz/JSON.git)
 ```
 3. Внутри локального JSON создать файл “new.json”.
 ```
